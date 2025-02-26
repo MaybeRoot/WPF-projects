@@ -1,0 +1,130 @@
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe.config
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\Demonstracja.pdb
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.AssemblyReference.cache
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Author.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Properties.Resources.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.GenerateResource.cache
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.CoreCompileInputs.cache
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.exe
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.pdb
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Clients.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Guests.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.MainForm.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.PassChange.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.RoomStock.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Users.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ClosedXML.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\RBush.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Buffers.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Memory.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ClosedXML.pdb
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ClosedXML.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\RBush.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Buffers.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Memory.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Records.resources
+C:\Users\ak47k\source\repos\Demonstracja\Demonstracja\obj\Debug\Demonstr.3BBAAA49.Up2Date
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe.config
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.pdb
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\RBush.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Buffers.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Memory.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.pdb
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\RBush.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Buffers.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Memory.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.AssemblyReference.cache
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.SuggestedBindingRedirects.cache
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Author.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Clients.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Guests.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.MainForm.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.PassChange.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Properties.Resources.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Records.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.RoomStock.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Users.resources
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.GenerateResource.cache
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.CoreCompileInputs.cache
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.CopyComplete
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.exe
+F:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.pdb
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe.config
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.exe
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Demonstracja.pdb
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\RBush.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Buffers.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Memory.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.pdb
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ClosedXML.Parser.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\ExcelNumberFormat.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\RBush.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\SixLabors.Fonts.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Buffers.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Memory.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Numerics.Vectors.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.AssemblyReference.cache
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Author.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Clients.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Guests.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.MainForm.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.PassChange.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Properties.Resources.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Records.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.RoomStock.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.Users.resources
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.GenerateResource.cache
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.csproj.CoreCompileInputs.cache
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstr.3BBAAA49.Up2Date
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.exe
+E:\4Курс\Demo Exam\4BD\Demonstracja\Demonstracja\obj\Debug\Demonstracja.pdb

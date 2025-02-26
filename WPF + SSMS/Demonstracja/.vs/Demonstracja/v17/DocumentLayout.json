@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\demonstracja\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|solutionrelative:demonstracja\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\demonstracja\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|solutionrelative:demonstracja\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|c:\\users\\ak47k\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\u002Bsqlserverms\\demonstracja\\demonstracja\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|solutionrelative:demonstracja\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\demonstracja\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E345C01-3E70-4358-A9B3-FB980CA7E766}|Demonstracja\\Demonstracja.csproj|solutionrelative:demonstracja\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\MainForm.cs",
+              "RelativeDocumentMoniker": "Demonstracja\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\MainForm.cs",
+              "RelativeToolTip": "Demonstracja\\MainForm.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:04:19.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Records.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\Records.cs",
+              "RelativeDocumentMoniker": "Demonstracja\\Records.cs",
+              "ToolTip": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\Records.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Demonstracja\\Records.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:08:35.336Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\MainForm.cs",
+              "RelativeDocumentMoniker": "Demonstracja\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Demonstracja\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:29:17.017Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\Author.cs",
+              "RelativeDocumentMoniker": "Demonstracja\\Author.cs",
+              "ToolTip": "C:\\Users\\ak47k\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\u002BSqlServerMS\\Demonstracja\\Demonstracja\\Author.cs",
+              "RelativeToolTip": "Demonstracja\\Author.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:09:04.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,7 +16,7 @@
 1. Открыть Open Server Panel и запустить локальный сервер
 2. Открыть PHPMyAdmin и перейти на вкладку Экспорт
 3. Экспортировать предварително скачанный Cklad.sql
-*В проекте уже указан путь подклбчения, при необходимости поменяйте следующую строчку в классе DataBase*
+*В проекте уже указан путь подключения, при необходимости поменяйте следующую строчку в классе DataBase*
 ```csharp
 // Строка подключения к БД
 MySqlConnection connection = new MySqlConnection("server = localhost; port = 3306; username = root; password = ; database = Cklad");
